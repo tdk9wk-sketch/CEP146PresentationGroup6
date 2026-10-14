@@ -12,3 +12,12 @@
 
 ## What is Proot
 - proot is a sandbox enviroment for another file system that does not require root
+
+## What does Droid Deck do
+- Brings the Linux Desktop to Android
+- uses the LXQT desktop enviroment
+- Brings systemd, glibc, gamescope/wlroots to Android
+- Bridges Linux daemons such as PulseAudio
+- Translates touchscreen inputs into uinput events
+- Translates to native gpu drivers
+
