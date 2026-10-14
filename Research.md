@@ -2,7 +2,10 @@
 
 Aidan Research ˬ
 
-
+## Droid deck as a means of translation
+- The droid deck makes use of software translation.
+- It's similar to how an IDE translates code through an interpreter.
+- 
 
 Wen Research ˬ
 ## What is Droid Deck
