@@ -18,13 +18,14 @@ Wen Research ˬ
 - Droid deck is a community driven application licenced as GPL 3.0
 
 ## What is Proton
-- Proton is a translation layer built off Wine that brings Win32 functionality to Linux
+- Proton is a translation layer built off Wine that brings Win32 functionality to Linux [2]
 
 ## What is FEX
-- Fex is a ARM64 to AMD64 translation layer
+- Fex is a ARM64 to AMD64 translation layer [5]
+- Forwards calls to the host system library [5]
 
 ## What is Proot
-- proot is a sandbox enviroment for another file system that does not require root
+- proot is a sandbox enviroment for another file system that does not require root [3]
 
 ## What does Droid Deck do
 - **Brings the Linux Desktop to Android**
@@ -35,4 +36,3 @@ Wen Research ˬ
 - Translates to native gpu drivers
 
 Ali Research ˬ
-
