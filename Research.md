@@ -12,6 +12,10 @@ Aidan Research ˬ
 - Since its source code is publicly available on GitHub, developers can contribute to the project by reporting bugs and suggesting improvements
 - **It is a notable development, since developers can now have their software available on Android devices without having to rewrite their code**
 
+## Droid Deck Release date
+- The droid deck officially released on September 28, 2026. With newer versions being consistently uploaded on GitHub
+- Its been just over two weeks since its been officially out
+
 Wen Research ˬ
 ## What is Droid Deck
 - **Droid deck is an application translation layer using Proot, Proton, and Fex to bring games made for AMD64 Windows to ARM64 Android devices**
