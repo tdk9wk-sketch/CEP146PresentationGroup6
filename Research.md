@@ -21,7 +21,7 @@ Wen Research ˬ
 
 ## What does Droid Deck do
 - Brings the Linux Desktop to Android [1]
-- uses the LXQT desktop enviroment [1]
+- uses the LXQT desktop enviroment (now KDE Plasma) [1]
 - Brings systemd, glibc, gamescope/wlroots to Android [4]
 - Bridges Linux daemons such as PulseAudio [4]
 - Translates touchscreen inputs into uinput events [4]
@@ -32,5 +32,6 @@ Wen Research ˬ
 1. https://wiki.archlinux.org/title/PRoot
 1. https://en.linuxadictos.com/Droiddeck-lets-you-run-Steam-and-PC-games-directly-on-Android.html#:~:text=From%20there%2C%20you%20can%20run%20desktop%20applications,game.%20Installation%20without%20root%20and%20open%20source.
 1. https://fex-emu.com/
+1. https://github.com/Droid-Deck/DroidDeck
 
 Ali Research ˬ
