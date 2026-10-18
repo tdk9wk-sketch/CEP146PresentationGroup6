@@ -1,75 +1,19 @@
-The Script For the Video -
+# SteamOS On Android?!?!
 
-Have You heard?
+In this research we will tell you about the recently released Android application, the Droid Deck, which allows you to have SteamOS experience on your Android device, including all the Steam features, and most importantly, it allows you to play most of pc games on your Android phone or tablet!
 
-Heard what?
+## About Droid Deck:
 
-2 weeks ago the Droid Deck officially released
+The Droid deck is an open source community project that is meant to bring the SteamOS experience to Android devices and run pc games on them. For that, the applications uses Proton and Fex translation layers in order to translate the Steam client and games you want to play, so that Android could understand and execute them.
 
-The what?
+## The Translation Process:
 
-You don't know what the droid deck is?
+In order to run Steam games on Android, first we need to translate the Steam client and the games from WindowsOS to Linux, because these operating systems have different architectures, and then translate then to ARM, because at this stage the Linux versions of the applications we want to translate are still meant to be run on a x86 based hardware, where as Android devices are ARM based. The resulting programs will provide the exact same experience as if you ran them on a normal Windows pc.
 
-Well, surely you know the issue with translating code between Windows and Android
+## A Caveat
 
-*nodding no
+Though, what this technology can do sounds absolutely amazing, there is a catch. Because the algorhythm translates the application in real time, your device's game performance will be significantly lower, because some fraction of power is being used on the translation, though the community is actively working on optimizing the algorhythms.
 
-Before the droid deck, programmers must manually rewrite their code for it to work on Android devices
+Another thing I got to mention: not every single game on steam runs perfectly through these translation layers. While some games might have occasional bugs, such as input issues or aspect ratio quirks, other games might not even be launched at all, due to anti-cheat incompatability in multiplayer games, or because a game relies on some proprietary Windows components that proton cannot substitute.
 
-The Droid Deck removes that step
-
-That's not all, the droid deck is publicly available on GitHub, so anyone can report bugs, suggest changes, or even study the code
-
-How does it work?
-
-I'm glad you asked
-
-I didnt
-
-Well, Droid Deck combines three important technologies, PRoot, Proton, and fex
-
-PRoot is like having a little Linux environment running inside your Android device. It provides you the environment that linux requires without requiring you to replace Android itself.
-
-Then there's proton, which provides the compatibility between what Windows requires and what Linux can provide
-
-And lastly, Fex fixes the issue of processors
-
-Most Windows PC games are designed for x86-64 processors while many Android devices use ARM64 Processors
-
-Fex bridges the gap by translating the instructions from one to the other
-
-When these three work together, suddenly you have a windows game running on an Android device
-
-Cool
-
-Ive got class in ten minutes, can I go
-
-Just think about what this means for programmers
-
-And he's still talking
-
-You don't have to rewrite your code for every device
-
-I mean, right now it doesnt work perfectly
-
-And I guess its not the fastest for running games with
-
-But imagine
-
-Majority of your computer games will be able to run on your phone thanks to the droid deck
-
-Wait, where are you going?
-
-I told you, I got class
-
-Hold on, isn't it amazing though
-
-I guess, but I dont play games on my phone either way
-
-Wait, there's still so much to talk about!
-
-Hold on!
-
-*Door shuts
-
-*Video Ends
+right now, only around 10-15% of steam games run well on Android devices, and around 30% run, but with heavy stuttering and graphics glitches, and while this number is not impressive, this is still something, and this something grows with every year. hopefully, one day you will be able to run most of pc games on your Android device without any issues, and the translation will barely affect the performance.
