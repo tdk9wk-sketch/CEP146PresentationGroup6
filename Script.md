@@ -8,9 +8,9 @@ The Droid deck is an open source community project that is meant to bring the St
 
 ## The Translation Process:
 
-In order to run Steam games on Android, first we need to translate the Steam client and the games from WindowsOS to Linux, because these operating systems have different architectures, and then translate then to ARM, because at this stage the Linux versions of the applications we want to translate are still meant to be run on a x86 based hardware, where as Android devices are ARM based. The resulting programs will provide the exact same experience as if you ran them on a normal Windows pc.
+In order to run Steam games on Android, first we need to translate the Steam client and the games from WindowsOS to Linux, because these operating systems have different architectures, and then translate them to ARM, because at this stage the Linux versions of the applications we want to translate are still meant to be run on a x86 based hardware, where as Android devices are ARM based. The resulting programs will provide the exact same experience as if you ran them on a normal Windows pc.
 
-## A Caveat
+## The Caveat
 
 Though, what this technology can do sounds absolutely amazing, there is a catch. Because the algorhythm translates the application in real time, your device's game performance will be significantly lower, because some fraction of power is being used on the translation, though the community is actively working on optimizing the algorhythms.
 
