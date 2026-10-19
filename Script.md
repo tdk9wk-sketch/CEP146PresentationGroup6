@@ -50,6 +50,8 @@ And he's still talking
 
 You don't have to rewrite your code for every device
 
+If the code is translating in real time, does that not mean that it would be very slow?
+
 I mean, right now it doesnt work perfectly
 
 And I guess its not the fastest for running games with
