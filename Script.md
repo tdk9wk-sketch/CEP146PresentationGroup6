@@ -74,4 +74,10 @@ Hold on!
 
 *Door shuts
 
-*Video Ends
+*Video Cuts to the second part
+
+*Title Screen "What does the Droid Deck really do?"
+
+While the skit is a great summary of the Droid Deck
+
+
