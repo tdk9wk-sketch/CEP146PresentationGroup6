@@ -32,11 +32,15 @@ PRoot is like having a little Linux enviroment running inside your Android devic
 
 Then there's Proton, which provides the compatibility between Windows Win32API and Linux and it's talored to gaming
 
+Proton is built to capture requests to Win32 and it sends the request to the Linux equivalent and provides a windows file structure so games don't even realize they're running on a different system. It is also supported by Valve, the biggest PC games vendor.
+
 And lastly, Fex fixes the issue of processor translation
 
-Most Windows PC games are designed for x86-64 processors while many Android devices use ARM64 Processors, these have different processor instructions and regesters which makes binaries incompatable between platforms
+Most Windows PC games are designed for x86-64 processors while many Android devices use ARM64 Processors, these have different processor instructions and regesters which makes binaries incompatable between platforms.
 
-Fex bridges the gap by translating the instructions from one to the other
+Fex bridges the gap by translating the instructions from one to the other.
+
+For example ARM disallows direct memory requests. In the case that a program tries to manipulate memory instead of setting and loading, Fex would translate the program so that it does.
 
 When these three work together, suddenly you have a game built for a different archetecture and operating system working on a smartphone
 
