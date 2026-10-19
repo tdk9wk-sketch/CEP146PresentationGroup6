@@ -50,6 +50,8 @@ And he's still talking
 
 You don't have to rewrite your code for every device
 
+If the code is translating in real time, does that not mean that it would be very slow?
+
 I mean, right now it doesnt work perfectly
 
 And I guess its not the fastest for running games with
@@ -72,4 +74,10 @@ Hold on!
 
 *Door shuts
 
-*Video Ends
+*Video Cuts to the second part
+
+*Title Screen "What does the Droid Deck really do?"
+
+While the skit is a great summary of the Droid Deck
+
+
