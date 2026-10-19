@@ -30,7 +30,7 @@ Well, Droid Deck combines three important technologies, PRoot, Proton, and Fex
 
 PRoot is like having a little Linux enviroment running inside your Android device. 
 
-Then there's Proton, which provides the compatibility between Windows Win32API and Linux and it's talored to gaming
+Then there's Proton, which provides the compatibility between Windows and Linux and is talored to gaming
 
 And lastly, Fex fixes the issue of processor translation
 
