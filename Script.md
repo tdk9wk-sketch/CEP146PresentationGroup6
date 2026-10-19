@@ -98,3 +98,21 @@ right now, only around 10-15% of steam games run well on Android devices, and ar
 ## What this means for development as a whole
 
 Translation allows developers to ship one application and have it work for all platforms. Significantly lowering development times and creating a more consistant experience for users of diffent operating systems.
+
+# Keep?
+
+*Video Cuts to the second part
+
+*Title Screen "What does the Droid Deck really do?"
+
+While the skit is a great summary of the Droid Deck
+
+The Droid Deck is far more complicated than that
+
+Currently, the Droid Deck runs SteamOS, allowing you to play games from your steam library on your android device
+
+It also uses PRoot, Proton, and Fex
+
+but how does that work?
+
+
