@@ -80,4 +80,12 @@ Hold on!
 
 While the skit is a great summary of the Droid Deck
 
+The Droid Deck is far more complicated than that
+
+Currently, the Droid Deck runs SteamOS, allowing you to play games from your steam library on your android device
+
+It also uses PRoot, Proton, and Fex
+
+but how does that work?
+
 
