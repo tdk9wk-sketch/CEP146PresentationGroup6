@@ -18,31 +18,31 @@ Before the droid deck, programmers must manually rewrite their code for it to wo
 
 The Droid Deck removes that step
 
-That's not all, the droid deck is publicly available on GitHub, so anyone can report bugs, suggest changes, or even study the code
+That's not all, the droid deck is publicly available on GitHub as an open source project licensed under GPL-3.0, so anyone can report bugs, suggest changes, study the code, or add your own changes
 
 How does it work?
 
 I'm glad you asked
 
-I didnt
+I didn't
 
-Well, Droid Deck combines three important technologies, PRoot, Proton, and fex
+Well, Droid Deck combines three important technologies, PRoot, Proton, and Fex
 
-PRoot is like having a little Linux environment running inside your Android device. It provides you the environment that linux requires without requiring you to replace Android itself.
+PRoot is like having a little Linux enviroment running inside your Android device. It provides you the environment that Linux programs expect without requiring you to replace Android itself or root your system.
 
-Then there's proton, which provides the compatibility between what Windows requires and what Linux can provide
+Then there's Proton, which provides the compatibility between Windows Win32API and Linux and it's talored to gaming
 
-And lastly, Fex fixes the issue of processors
+And lastly, Fex fixes the issue of processor translation
 
-Most Windows PC games are designed for x86-64 processors while many Android devices use ARM64 Processors
+Most Windows PC games are designed for x86-64 processors while many Android devices use ARM64 Processors, these have different processor instructions and regesters which makes binaries incompatable between platforms
 
 Fex bridges the gap by translating the instructions from one to the other
 
-When these three work together, suddenly you have a windows game running on an Android device
+When these three work together, suddenly you have a game built for a different archetecture and operating system working on a smartphone
 
 Cool
 
-Ive got class in ten minutes, can I go
+I've got class in ten minutes, can I go
 
 Just think about what this means for programmers
 
@@ -64,9 +64,9 @@ I told you, I got class
 
 Hold on, isn't it amazing though
 
-I guess, but I dont play games on my phone either way
+I guess, but I don't play games on my phone either way
 
-Wait, there's still so much to talk about!
+Wait, there's still so much to talk about! You have your entire Steam library on the go without spending money on a Steam Deck.
 
 Hold on!
 
