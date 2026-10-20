@@ -8,8 +8,22 @@ Aidan Pacheco, Ali Makeev, Wen Xin Gao
 
 Droid Deck is an application that allows Steam games along with other Windows applications on your Android device
 
-TODO: add member roles
+## Roles
+
+Aidan Pacheco
+- Droid Deck enthusiast
+- Script Writer
+  
+Ali Makeev
+- Technical Explainer
+- Script Writer
+
+Wen Xin Gao
+- Script Editor
+- Disgruntled Student
 
 ## Video
 
-TODO: add video link
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+https://youtu.be/KutOZaTIvvg
