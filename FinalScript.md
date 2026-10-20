@@ -76,46 +76,54 @@ Hold on!
 
 *Title Screen "What does the Droid Deck really do?"
 
-While the skit is a great summary of the Droid Deck
+alright now seriously. if you didn't quite get what my friends just told you, then let me make a quick recap just for you.
 
-The Droid Deck is far more complicated than that
+1.Currently, the Droid Deck allows you to have steam's big picture mode experience on your android phone or a tablet,
 
-Currently, the Droid Deck runs SteamOS, allowing you to play games from your steam library on your android device
+as long as your device's chip is supported by the app, allowing you to play games from your stam library.
 
-but how does that work?
+how? well... There are tree steps that allow this
 
-There are three steps that allow this
+step one, translate the steam client and windows version of a games from WindowsOS to Linux.
 
-First, the steam client and windows games need to be translated from WindowsOS to Linux
+2.since windows and linux have very different architectures, a program written for windows will not run on linux and vise versa. this means we need to somehow translate windows version of a program to linux.
 
-That is done with Proton
+and this can actually be done with Proton, which captures requests from the game that are meant to be received by Windows,
 
-Proton is built to capture requests to Win32 and send the request to the Linux equivalent, providing a windows file structure so that games don't even realize they're running on a different system. 
+translates the recived requests in a version that linux understands, and sends the translated requests to Linux, while your game doesn't even understand that it is running on a different system.
 
-Next, your android device must be able to run Linux architecture
+3.step two, your android device must be able to run Linux programs, which it actually cannot do by default.
 
-for that, there's PRoot
+even though androi is linux at its core, it is way to different from regular linux, and so we need to find a way to convert linux programs to android.
 
-PRoot provides your android device with a linux runtime
+4.and that is what PRoot was built for. It creates a folder that is structurally identical to linux's root system, which tricks linux programs into thinking that they are running on normal linux,
 
-It provides you the environment that Linux programs expect, without requiring you to replace Android itself or root your system.
+because it is essantially what they are running on.
 
-Lastly, theres Fex, which resolves the device incompatibility issue
+5.step tree, make linux version of the game to run on an ARM system.
 
-Most Windows PC games are designed for x86-64 processors while many Android devices use ARM64 Processors, these have different processor instructions and regesters which makes binaries incompatable between platforms
+Most Windows games are designed specifically for x86 based processors while Android phones and tablets primerely run on ARM.
 
-While these three things, in theory, work together
+they have different processor instructions and regesters which makes binaries incompatable between platforms.
 
-There is a catch
+6.however, fex solves this problem. it can translate our x86 program to ARM, finalizing the translation process.
 
-Because the algorhithm translates the application in real time, your device's game performance will be lower
+7.Though, what this technology does sounds magical, there is a catch.
 
-While not every game runs perfectly
+Because the algorhythm translates the application in real time, your device's game performance will be significantly lower, because some fraction of power is being used on the translation,
 
-the community is actively working on optimizing the algorithyms
+though the community is actively working on optimizing the algorhythms.
 
-The Droid Deck is still in its early phases
+8.Another thing I got to mention: not every single game on steam runs perfectly through these translation layers.
 
-Yet, I can't wait to see what it will become
+while some games might have occasional bugs, such as input issues or aspect ratio quirks, other games might not even be launched at all,
+
+due to anti-cheat incompatability in multiplayer games, or because a game relies on some proprietary Windows components that proton cannot substitute.
+
+9.right now, only around 10-15% of steam games run well on Android devices via Droid Deck, and around 30% of them run, but with heavy stuttering and graphics glitches,
+
+and while this number is not impressive, this is still something, and this something grows with every year. hopefully, one day,
+
+you will be able to run most of pc games on your Android device without any issues, and the translation will barely affect the performance. I really can't wait to see what this project will become.
 
 *Video Ends
